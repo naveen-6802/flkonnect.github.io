@@ -3796,7 +3796,7 @@ img.u-pull-left {
 .s-footer .contact-email {
     font-weight   : 500;
 /*    font-size     : clamp(3.2rem, 8vw, 10.4rem);*/
-    font-size: 35px;
+    font-size: 25px;
     letter-spacing: -0.05em;
     line-height   : 1;
     margin-bottom : var(--vspace-0_625);
